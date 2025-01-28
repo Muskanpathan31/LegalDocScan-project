@@ -1,0 +1,1 @@
+# LegalDocScan-project
